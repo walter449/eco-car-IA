@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+datasets/
+trained_models/
+
+node_modules/
+
+dist/
+build/
