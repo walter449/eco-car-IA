@@ -4,7 +4,6 @@ __pycache__/
 .env
 
 datasets/
-trained_models/
 
 node_modules/
 
